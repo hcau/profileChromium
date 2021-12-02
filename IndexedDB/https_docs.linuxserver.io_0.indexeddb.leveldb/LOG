@@ -1,0 +1,13 @@
+2021/11/29-23:54:24.351 5d48 Reusing MANIFEST /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_docs.linuxserver.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/29-23:54:24.351 5d48 Recovering log #10
+2021/11/29-23:54:24.779 5d48 Reusing old log /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_docs.linuxserver.io_0.indexeddb.leveldb/000010.log 
+2021/11/29-23:54:26.171 62cb Level-0 table #14: started
+2021/11/29-23:54:26.229 62cb Level-0 table #14: 2201 bytes OK
+2021/11/29-23:54:26.321 62cb Delete type=0 #10
+2021/11/29-23:54:26.342 62cb Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 258 : 1
+2021/11/29-23:54:26.342 62cb Compacting 1@0 + 1@1 files
+2021/11/29-23:54:26.413 62cb Generated table #15@0: 29 keys, 1470 bytes
+2021/11/29-23:54:26.413 62cb Compacted 1@0 + 1@1 files => 1470 bytes
+2021/11/29-23:54:26.451 62cb compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/29-23:54:26.452 62cb Delete type=2 #14
+2021/11/29-23:54:26.452 62cb Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 258 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

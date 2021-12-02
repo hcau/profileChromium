@@ -1,0 +1,7 @@
+2021/10/31-17:20:15.267 1494 Reusing MANIFEST /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_www.fnac.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/31-17:20:15.267 1494 Recovering log #3
+2021/10/31-17:20:15.267 1494 Reusing old log /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_www.fnac.com_0.indexeddb.leveldb/000003.log 
+2021/10/31-17:52:16.955 1b87 Level-0 table #5: started
+2021/10/31-17:52:16.988 1b87 Level-0 table #5: 6207 bytes OK
+2021/10/31-17:52:17.018 1b87 Delete type=0 #3
+2021/10/31-17:52:17.019 1b87 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

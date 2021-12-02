@@ -1,0 +1,6 @@
+2021/11/04-11:45:47.124 3ebe Creating DB /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
+2021/11/04-11:45:49.427 3ebe Reusing MANIFEST /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/04-11:52:04.945 3fb8 Level-0 table #5: started
+2021/11/04-11:52:05.003 3fb8 Level-0 table #5: 6853 bytes OK
+2021/11/04-11:52:05.038 3fb8 Delete type=0 #3
+2021/11/04-11:52:05.038 3fb8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

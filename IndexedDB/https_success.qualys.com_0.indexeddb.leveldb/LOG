@@ -1,0 +1,27 @@
+2021/11/05-10:18:58.019 4d0e Creating DB /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_success.qualys.com_0.indexeddb.leveldb since it was missing.
+2021/11/05-10:18:58.149 4d0e Reusing MANIFEST /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_success.qualys.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/05-10:19:02.719 5047 Level-0 table #5: started
+2021/11/05-10:19:02.842 5047 Level-0 table #5: 715134 bytes OK
+2021/11/05-10:19:02.908 5047 Delete type=0 #3
+2021/11/05-10:19:02.908 5047 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/05-10:19:05.275 5022 Level-0 table #7: started
+2021/11/05-10:19:05.372 5022 Level-0 table #7: 1457514 bytes OK
+2021/11/05-10:19:05.547 5022 Delete type=0 #4
+2021/11/05-10:19:18.275 5047 Compacting 1@1 + 1@2 files
+2021/11/05-10:19:18.344 5047 Generated table #8@1: 3729 keys, 1733231 bytes
+2021/11/05-10:19:18.344 5047 Compacted 1@1 + 1@2 files => 1733231 bytes
+2021/11/05-10:19:18.384 5047 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/05-10:19:18.385 5047 Delete type=2 #5
+2021/11/05-10:19:18.385 5047 Delete type=2 #7
+2021/11/05-12:47:01.161 794d Level-0 table #10: started
+2021/11/05-12:47:01.411 794d Level-0 table #10: 1872251 bytes OK
+2021/11/05-12:47:01.535 794d Delete type=0 #6
+2021/11/05-12:47:01.536 794d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/05-12:47:01.536 794d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01\x1f\x03\x00P\x8a\xdc\xb3\x09xB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 10805 : 1
+2021/11/05-12:47:01.536 794d Compacting 1@1 + 1@2 files
+2021/11/05-12:47:01.744 794d Generated table #11@1: 2339 keys, 1967020 bytes
+2021/11/05-12:47:01.744 794d Compacted 1@1 + 1@2 files => 1967020 bytes
+2021/11/05-12:47:01.777 794d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/05-12:47:01.777 794d Delete type=2 #8
+2021/11/05-12:47:01.777 794d Delete type=2 #10
+2021/11/05-12:47:01.777 794d Manual compaction at level-1 from '\x00\x07\x01\x1f\x03\x00P\x8a\xdc\xb3\x09xB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 10805 : 1 .. (end); will stop at (end)

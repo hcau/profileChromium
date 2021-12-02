@@ -1,0 +1,7 @@
+2021/11/29-23:41:57.981 58b9 Reusing MANIFEST /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_www.coincashew.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/29-23:41:57.981 58b9 Recovering log #4
+2021/11/29-23:41:58.006 58b9 Reusing old log /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_www.coincashew.com_0.indexeddb.leveldb/000004.log 
+2021/11/29-23:41:58.364 58e1 Level-0 table #8: started
+2021/11/29-23:41:58.414 58e1 Level-0 table #8: 2068 bytes OK
+2021/11/29-23:41:58.489 58e1 Delete type=0 #4
+2021/11/29-23:41:58.490 58e1 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

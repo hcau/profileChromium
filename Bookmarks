@@ -1,0 +1,40 @@
+{
+   "checksum": "7b7ac6d3ad8f69b0a813619570e44418",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13279853347998557",
+            "guid": "735ba94f-7d5b-4075-89c1-5edd39c8be53",
+            "id": "5",
+            "name": "Secure Spring Boot app with SSL/TLS certificate generated using keystore - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Ztg83obHtsg"
+         } ],
+         "date_added": "13279852169664667",
+         "date_modified": "13279853347998557",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre de favoris",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13279852169664668",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13279852169664669",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris sur mobile",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

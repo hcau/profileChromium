@@ -1,0 +1,6 @@
+2021/11/05-14:53:10.401 9489 Creating DB /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_cloud.google.com_0.indexeddb.leveldb since it was missing.
+2021/11/05-14:53:10.610 9489 Reusing MANIFEST /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_cloud.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/05-14:53:48.005 957d Level-0 table #5: started
+2021/11/05-14:53:48.378 957d Level-0 table #5: 1876 bytes OK
+2021/11/05-14:53:48.656 957d Delete type=0 #3
+2021/11/05-14:53:48.656 957d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/11/23-18:25:17.402 3b6d Reusing MANIFEST /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/23-18:25:17.402 3b6d Recovering log #29
+2021/11/23-18:25:18.216 3b6d Reusing old log /home/hcau/snap/chromium/common/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000029.log 
+2021/11/23-18:25:27.979 3b6d Level-0 table #35: started
+2021/11/23-18:25:28.106 3b6d Level-0 table #35: 4007061 bytes OK
+2021/11/23-18:25:28.188 3b6d Delete type=0 #29

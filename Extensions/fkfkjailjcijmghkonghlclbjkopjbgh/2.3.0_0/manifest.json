@@ -1,0 +1,32 @@
+{
+   "background": {
+      "scripts": [ "app/bootloader.js" ]
+   },
+   "commands": {
+      "toggle": {
+         "description": "Toggle Ruler",
+         "suggested_key": {
+            "default": "Alt+Q"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "app/resize.css", "app/style.css" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start",
+      "scripts": [ "jQuery/jQuery.js", "jQuery/Jquery-ui.js" ]
+   } ],
+   "description": "Make you measurement easy with Chrullex (CH-rome RUL-er EX-tension)",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj4WhbHtPCiPH9+mPgJWnou+cqgYJ/0YUEtr8nED2T6gl507cmRh3Fpb/e043Jyh8tTh5lOwa3S6v2JhzV+gF9GXA/sIo0DnnaBYnoWrL57aOmq4kUhEtscOHnK+NUX3/nn1dhVM+iPHEwzJ9x4bO2+efbfY7zp1K3TpYZVjyZgUX/8QS7kVj3Dv7DXQvDTX3SwjRCPai3Q0jROPzO/d6GvfKVwpPq31NPeMKXo80iplR4XJrbR4m+GRX0a1TIx40GTZDNnlepB9DYtbevI+IXRL5Aew6b6Y7hxVIFVk/JAqJOPVBYnr5+NqKB4723Rw70J2f6MbwaDGSUQOi4gb+wwIDAQAB",
+   "manifest_version": 2,
+   "name": "Ruler Measurement",
+   "offline_enabled": true,
+   "options_page": "options/options.html",
+   "page_action": {
+      "default_icon": "images/icon.png"
+   },
+   "permissions": [ "\u003Call_urls>", "storage" ],
+   "short_name": "Chrullex",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3.0"
+}
